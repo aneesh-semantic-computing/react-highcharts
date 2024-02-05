@@ -45,7 +45,7 @@ function App() {
         name: 'Browser share',
         colorByPoint: true,
         innerSize: '40%',
-        categories: ['Chrome', 'Safari', 'Firefox', 'Edge', 'Internet Explorer', 'Other'],
+        // categories: ['Chrome', 'Safari', 'Firefox', 'Edge', 'Internet Explorer', 'Other'],
         data: [{name: 'Chrome', y: 61.41}, {name: 'Safari', y: 11.84}, {name: 'Firefox', y: 10.85}, {name: 'Edge', y: 4.67}, {name: 'Internet Explorer', y: 4.18}, {name: 'Other', y: 7.05}]
         // data: [{name: 'Chrome', y: 64.7}, {name: 'Edge', y: 5.43}, {name: 'FireFox', y: 3.35}, {name: 'Safari', y: 20.47}, {name: 'Opera', y: 3.31}, {name: 'Others', y: 2.74}]
       }
